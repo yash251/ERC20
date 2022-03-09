@@ -1,0 +1,16 @@
+Copy and run the code on Remix IDE. 
+Go to https://faucets.chain.link/kovan and send 0.1 fake ether to our Metamask wallet.
+Use Injected Web3 and connect Metamask for Kovan Network. 
+Enter the details for the token eg. Name, Symbol and deploy.
+https://kovan.etherscan.io/address/0x5200aA2A72a96A3091831e812edC5De4ad6DB426
+Verify and publish the code. Go to Metamask and import the token using the contract address generated.
+Go to Uniswap AMM. Go to Pool tab -> New Position -> Add the token .
+Make fee 0.3%. Set 1 ETH to 1000 WEED. Set minimum nd maxmimum to 500 and 2000 respetively. 
+Deposit ETH and approve the token.
+
+Links
+
+https://kovan.etherscan.io/address/0x5200aA2A72a96A3091831e812edC5De4ad6DB426
+https://kovan.etherscan.io/tx/0xe1343bf62d591da1b11c751049ebc525cf6ffb73f811eed1e1eaa319fd495b53
+https://kovan.etherscan.io/tx/0x38ae2995f21d33183a5840a65b9d7109d38d7e7505da939baafc10ed40279944
+https://app.uniswap.org/#/pool?chain=kovan
